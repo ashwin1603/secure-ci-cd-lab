@@ -2,7 +2,7 @@
 A hands-on lab demonstrating how to build a secure CI/CD pipeline using GitHub Actions for a Python Flask application. This project showcases security best practices integrated directly into an automated pipeline — from code linting and dependency scanning to automated testing and safe deployment.
 
 📌 Overview
-This lab uses a minimal Flask web application as the target project, with the real focus being the security-hardened GitHub Actions workflow in .github/workflows/. The goal is to demonstrate how DevSecOps principles can be embedded into every stage of the CI/CD process.
+This lab uses a minimal Flask web application as the target project, with the real focus being the security-hardened GitHub Actions workflow in .github/workflows/. The goal is to demonstrate how DevSecOps principles can be embedded into every stage of the CI/CD process.es
 
 📁 Project Structure
 secure-ci-cd-lab/
